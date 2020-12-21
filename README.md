@@ -1,5 +1,5 @@
 # Aid-Sheets
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
-Please file an issue if you find a mistake in the aid sheets!
-Thanks :)
+This aid sheet was organized to prepare study for machine learning course(s) at U of T. 
+It might be highly possible that the document contains typo/mistakes, so please file an issue if you found a mistake. Thanks!
